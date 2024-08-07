@@ -10,7 +10,7 @@ Elbrus News
 
 JS, React, Chakra UI, vanta, Git, Node.js, PostgreSQL, Express, Sequelize, bcrypt, cookie-parser, cors, dotenv, jsonwebtoken, morgan, nodemon, multer, Vite
 
-# Скриншоты проекта Geogems
+# Скриншоты проекта Elbrus News
 
 ## Главная страница
 
